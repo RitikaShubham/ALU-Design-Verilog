@@ -12,8 +12,6 @@ Design a simple ALU using Verilog.
 ## Tools  
 ModelSim / Vivado  
 
-## Output  
-(Add waveform screenshot here)
 
 ## Learning  
 - Combinational logic design  
